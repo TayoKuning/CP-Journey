@@ -1,4 +1,5 @@
 /*
+Have some trouble when making the limit, i think the best way to handle a two pointer problem is to determine the limit before make the code
 */
 
 #include<bits/stdc++.h>
